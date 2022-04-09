@@ -7,7 +7,7 @@
 -:mailbox_with_mail: amtur@foxmail.com  
 -My QQ number :point_right:1011312091  
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMT-J&layout=compact)" >
 
 
 
