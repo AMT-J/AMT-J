@@ -6,5 +6,5 @@
 -:hammer: Creator of applications  
 -:ram: High school student  
 -:mailbox_with_mail: amtur@foxmail.com  
--:point_right: My QQ number:1011312091  
+-My QQ number :point_right:1011312091  
 
