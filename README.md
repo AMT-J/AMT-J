@@ -1,4 +1,4 @@
-I come from China,:cn:  
+
 **About me**  
 -:orange_book: Focusing on C++  
 -:hammer: Creator of applications  
